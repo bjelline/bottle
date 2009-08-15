@@ -1,4 +1,5 @@
 <% 
+  @i = @max
   while @i > 0 do
 %>
 <p> 
@@ -19,4 +20,4 @@
 %>
 
  <p>No more bottles of beer on the wall, no more bottles of beer.  <br />
- Go to the store and buy some more, 99 bottles of beer on the wall.</p>
+ Go to the store and buy some more, <%= @max %> bottles of beer on the wall.</p>
