@@ -1,0 +1,22 @@
+<% 
+  while @i > 0 do
+%>
+<p> 
+    <%= say_bottles(@i) %> of beer on the wall,
+    <%= say_bottles(@i) %> of beer.
+    <br />
+
+
+    <%     
+	@i = @i - 1  
+    %>
+
+    Take one down and pass it around, 
+    <%= say_bottles(@i) %> of beer on the wall.
+</p>
+<%
+   end
+%>
+
+ <p>No more bottles of beer on the wall, no more bottles of beer.  <br />
+ Go to the store and buy some more, 99 bottles of beer on the wall.</p>

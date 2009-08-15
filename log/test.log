@@ -1,0 +1,308 @@
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#index (for 0.0.0.0 at 2009-08-15 14:53:22) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://test.host/wall]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:53:22) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:53:22) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:54:07) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:54:07) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#index (for 0.0.0.0 at 2009-08-15 14:54:07) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://test.host/wall]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:54:07) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:54:07) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:55:34) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:55:34) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 15ms (View: 15, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#index (for 0.0.0.0 at 2009-08-15 14:55:34) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:55:34) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 14:55:34) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:10) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:10) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#index (for 0.0.0.0 at 2009-08-15 15:00:10) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:10) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:10) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (16.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:46) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 15ms (View: 15, DB: 16) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:46) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#index (for 0.0.0.0 at 2009-08-15 15:00:46) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:46) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:00:46) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:02:14) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:02:14) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#index (for 0.0.0.0 at 2009-08-15 15:02:14) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:02:14) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:02:14) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:04:18) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 16ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:04:18) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#index (for 0.0.0.0 at 2009-08-15 15:04:18) [GET]
+Rendering template within layouts/application
+Rendering wall/index
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:04:18) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing WallController#show (for 0.0.0.0 at 2009-08-15 15:04:18) [GET]
+  Parameters: {"id"=>"99"}
+Rendering template within layouts/application
+Rendering wall/show
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://test.host/wall/99]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
