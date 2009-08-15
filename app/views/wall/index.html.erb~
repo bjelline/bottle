@@ -1,1 +1,0 @@
-<p><%= link_to "Sing the song", :controller => :wall, :action => :show, :id => 99 %>
